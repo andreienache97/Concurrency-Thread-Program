@@ -1,6 +1,7 @@
 # Concurrency-Thread-Program
 
-Details
+Details:
+
 2 managers of a company employ 4 Secretaries who are of varying ability,
 but who all work extremely fast (i.e. the Secretaries).
 Secretary A is the most experienced and is capable of typing up a letter
